@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 { 
   int arr[5]; 
   int mode[5][2]; 
-   cout<<"Nhap 10 so nguyen\n"; 
+   cout<<"Nhap 5 so nguyen\n"; 
   for(int l=0;l<5;l++) {
      cout<<"Gia tri "<<l<<" la :";cin>>arr[l]; 
 }  
